@@ -13,11 +13,6 @@
 - 🎭 Love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sowndarya-k-p" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowndarya-k-p" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -38,5 +33,9 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sowndaryakp&show_icons=true&locale=en" alt="sowndaryakp" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
   
+<h3>Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sowndarya-k-p" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowndarya-k-p" height="30" width="40" /></a>
+</p>
 
 
