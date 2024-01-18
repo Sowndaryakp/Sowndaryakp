@@ -1,6 +1,17 @@
 <h1 align="center">Hi there, I'm Sowndarya K P 👋!</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
+👩‍💻 **About Me**
+- 👩🏻‍💻 Pronouns: She/Her
+- 💼 Currently working as a Fullstack Web Developer at CMTI.
+- 📋 Previously worked as a Software Engineer at Publicis Sapient.
+- 🎒 Completed 2-3 internships in Fullstack web development.
+- 📚 Passionate about Learning: Dedicated to continuous learning, I stay abreast of the latest technologies and industry trends to enhance my skills..
+- 💻 Hands-on Experience: Enjoy turning theoretical knowledge into practical applications, engaging in hands-on projects to reinforce learning.
+- 🚀 Leadership Skills: Demonstrated leadership qualities through various roles, contributing to team success and fostering a collaborative work environment.
+- 🧭 Enjoy exploring and working in both frontend and backend.
+- 🎭 Love speaking at events and connecting with people.
+- 📫 How to reach me: Check social links below.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sowndarya-k-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowndarya-k-p" height="30" width="40" /></a>
