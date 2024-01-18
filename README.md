@@ -39,10 +39,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndaryakp&show_icons=true&locale=en" alt="sowndaryakp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowndaryakp&" alt="sowndaryakp" /></p>
+
 
 
