@@ -30,9 +30,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowndaryakp&" alt="sowndaryakp" /></p>
 
 <h3>📈 Github Stats </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndaryakp&show_icons=true&locale=en" alt="sowndaryakp" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
-
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sowndaryakp&show_icons=true&locale=en" alt="sowndaryakp" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sowndarya-k-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowndarya-k-p" height="30" width="40" /></a>
