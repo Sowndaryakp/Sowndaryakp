@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sowndarya K P !</h1>
+<h1 align="center">Hi there👋, I'm Sowndarya K P !</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
 👩‍💻 **About Me**
@@ -7,7 +7,7 @@
 - 📋 Previously worked as a Software Engineer at Publicis Sapient.
 - 🎒 Completed 2-3 internships in Fullstack web development.
 - 📚 Passionate about Learning: Dedicated to continuous learning, I stay abreast of the latest technologies and industry trends to enhance my skills..
-- 💻 Hands-on Experience: Enjoy turning theoretical knowledge into practical applications, engaging in hands-on projects to reinforce learning.
+- 💻 Hands-on Experience: Enjoy turning theoretical knowledge into pactical applications, engaging in hands-on projects to reinforce learning.
 - 🚀 Leadership Skills: Demonstrated leadership qualities through various roles, contributing to team success and fostering a collaborative work environment.
 - 🧭 Enjoy exploring and working in both frontend and backend.
 - 🎭 Love speaking at events and connecting with people.
