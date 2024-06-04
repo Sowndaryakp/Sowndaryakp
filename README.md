@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sowndarya K P 👋!</h1>
+<h1 align="center">Hi there 👋, I'm Sowndarya K P !</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
 👩‍💻 **About Me**
