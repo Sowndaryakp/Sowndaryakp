@@ -36,11 +36,14 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sowndaryakp&show_icons=true&locale=en" alt="sowndaryakp" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowndaryakp&show_icons=true&locale=en&layout=compact" alt="sowndaryakp" /></p>
 
-<h3 >Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sowndarya-k-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
-</a>
+<br>  <!-- Added a new line here -->
 
+<h3>📌 Connect with me:</h3>
+<p align="left">
+   <a href="https://linkedin.com/in/sowndarya-k-p" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+   </a>
+   <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio Website" height="30" width="40" />
+   </a>
 </p>
