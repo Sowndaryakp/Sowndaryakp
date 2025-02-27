@@ -44,7 +44,6 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
    </a>
 <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="40" />
+   <img width="48" height="48" src="https://img.icons8.com/ink/48/FD7E14/portfolio.png" alt="Portfolio" />
 </a>
-
 </p>
