@@ -43,8 +43,7 @@
    <a href="https://linkedin.com/in/sowndarya-k-p" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
    </a>
-  <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Globe-icon.svg" alt="Portfolio" height="30" width="40" />
+ <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank"> 🌐 Portfolio </a>
 </a>
 
 
