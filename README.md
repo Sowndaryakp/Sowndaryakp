@@ -43,7 +43,7 @@
    <a href="https://linkedin.com/in/sowndarya-k-p" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
    </a>
-<a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/FD7E14/portfolio.png" alt="portfolio"/>
+  <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
+  <img align="center" width="30" height="40" src="https://img.icons8.com/ios/50/FD7E14/portfolio.png" alt="portfolio"/>
 </a>
 </p>
