@@ -44,6 +44,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
    </a>
    <a href="https://sowndaryakp.github.io/my-portfolio/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio Website" height="30" width="40" />
-   </a>
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
